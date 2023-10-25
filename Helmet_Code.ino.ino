@@ -10,8 +10,8 @@
 #include <Adafruit_Sensor.h>
 #include <Wire.h>
 
-const char ssid[] = "Galaxy M311F11";      // Your Wi-Fi network name
-const char password[] = "uorr8821";  // Your Wi-Fi password
+const char ssid[] = "dummyname";      // Your Wi-Fi network name
+const char password[] = "dummypassword";  // Your Wi-Fi password
 
 Adafruit_MPU6050 mpu;
 char auth[] = BLYNK_AUTH_TOKEN;
